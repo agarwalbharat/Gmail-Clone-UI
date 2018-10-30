@@ -45,10 +45,10 @@ More on this app is coming soon. I am working on it, as soon as I completed it I
 
 ### iOS implementation
 
-This project is not implemented for ios yet.Beacuse I own Windows 10 PC.
+This project is not implemented on ios yet.Beacuse I own Windows 10 PC.
 
 ### Android implementation
-This Project is implemented in android 9.0 and 8.0 in Pixel 2 and Redmi Note 5 (64/4GB).
+This Project is implemented in `android` `9.0` and `8.0` in `Pixel 2` and `Redmi Note 5 (64/4GB)`.
 
 ## Facing Any Problem or need any Help?
 Write me in [issues](https://github.com/bharatagsrwal/Gmail-Clone-UI/issues) section. I will try solve your issue within 10-12 hours.
