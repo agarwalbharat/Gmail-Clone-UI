@@ -42,7 +42,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 
 ### iOS implementation
 
-This project is not implemented for ios yet.Beacuse of I own Windows 10 PC.
+This project is not implemented for ios yet.Beacuse I own Windows 10 PC.
 
 ### Android implementation
 This Project is implemented in android 9.0 and 8.0 in Pixel 2 and Redmi Note 5 (64/4GB).
