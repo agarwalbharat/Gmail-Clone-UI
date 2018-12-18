@@ -11,7 +11,7 @@ App Bar contains some extra functionality as gmail app does not provide.
 App Bar is in intial stage and I am working on it to make it more smooth and beautiful UI.
 
 ### Show some :heart: and star the repo to support the project. 
-For more contact me @[facebook](https://www.facebook.com/bharatagsrwal)
+For more contact me @[facebook](https://www.facebook.com/bharatagsrwal) or @[Twitter](https://twitter.com/bharatagsrwal)
 
 ### I :heart: Flutter 
 
@@ -38,7 +38,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 ### Created By
 
 [Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](http://www.goobook.xyz))
+([Website](http://www.goobook.xyz))([Twitter](https://www.twitter.com/bharatagsrwal))
 
 ## More
 More on this app is coming soon. I am working on it, as soon as I completed it I will upload it. So Stay tuned with me to get some amazing update and apps.
