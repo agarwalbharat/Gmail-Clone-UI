@@ -3,12 +3,12 @@ Gmail Clone UI in Flutter
 
 ## Getting Started
 
-App Bar is a clone UI of Gmail with all working buttons and Icons as Gmails works
+This is a clone UI of Gmail with all working buttons and Icons as Gmails works
 
-App Bar is my first Project in Flutter and Dart
+Gmail Clone UI is my first Project in Flutter and Dart
 
-App Bar contains some extra functionality as gmail app does not provide.
-App Bar is in intial stage and I am working on it to make it more smooth and beautiful UI.
+This project contains some extra functionality as gmail app does not provide.
+This is at its intial stage and I am working on it to make it more smooth and beautiful UI.
 
 ### Show some :heart: and star the repo to support the project. 
 For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
@@ -47,7 +47,8 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 ([Bharat Agarwal](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
 
 ## More
-More on this app is coming soon. I am working on it, as soon as I completed it I will upload it. So Stay tuned with me to get some amazing update and apps.
+More on this 
+is coming soon. I am working on it, as soon as I completed it I will upload it. So Stay tuned with me to get some amazing update and apps.
 
 ### iOS implementation
 
